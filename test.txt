@@ -1,2 +1,3 @@
 add line 
-Creating a new branch is quick AND simple.ff
+Creating a new branch is quick and simple
+
